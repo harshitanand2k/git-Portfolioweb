@@ -1,0 +1,77 @@
+#mains{
+	text-transform: uppercase;
+	font-size:60px;
+	font-family: Noto Sans JP;
+	border:5px solid black;
+	width:50%;
+	text-align: center;
+	margin-top: 5%;
+	margin-left:auto;
+	margin-right:auto;
+	color: #FBEEC1;
+	border-color: #BC986A;
+}
+
+
+.heading{
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	font-family: Noto Sans JP;
+	font-weight: 200;
+	font-size: 30px;
+	border: 5px solid #FBEEC1;
+	border-radius: 25px;
+	margin-left:5%;
+	margin-right:5%;
+
+}
+body{
+	background-color:#B1A296; 
+}
+
+img{
+	width:29%;
+	height:320px;
+	float:left;
+	margin:1.66%;
+	border-color: #BC986A;
+	border-width: 5px;
+	border-style: solid;
+}
+
+.subs{
+	display: inline;
+	padding-right: 8%;
+	padding-left:16%;
+	margin-top: 2%;
+	font-family: Noto Sans JP;
+	text-transform: uppercase;
+	font-weight: 800;
+
+}
+
+.two{
+	width:28%;
+	height:300px;
+	margin-left:10%;
+	margin-right: 10%;
+	margin-top: 1.66%;
+	margin-bottom: 1.66%;
+}
+
+.subs2{
+	display: inline;
+	padding-left: 19%;
+	padding-right: 20%;
+	font-family: Noto Sans JP;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+
+
+
+
+
+
+
+
