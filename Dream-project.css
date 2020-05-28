@@ -41,12 +41,14 @@ img{
 
 .subs{
 	display: inline;
-	padding-right: 8%;
-	padding-left:16%;
+	padding-right: 4%;
+	padding-left:4%;
 	margin-top: 2%;
 	font-family: Noto Sans JP;
 	text-transform: uppercase;
 	font-weight: 800;
+	margin-left: 5%;
+	margin-right: 5%;
 
 }
 
@@ -61,11 +63,13 @@ img{
 
 .subs2{
 	display: inline;
-	padding-left: 19%;
-	padding-right: 20%;
+	padding-left: 2%;
+	padding-right: 2%;
 	font-family: Noto Sans JP;
 	text-transform: uppercase;
 	font-weight: 800;
+	margin-left: 12.5%;
+	margin-right: 12.5%;
 }
 
 
